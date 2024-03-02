@@ -1,0 +1,11 @@
+E:\Career\DBConnection\bin\Debug\DBConnection.exe.config
+E:\Career\DBConnection\bin\Debug\DBConnection.exe
+E:\Career\DBConnection\bin\Debug\DBConnection.pdb
+E:\Career\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+E:\Career\DBConnection\obj\Debug\DBConnection.csproj.SuggestedBindingRedirects.cache
+E:\Career\DBConnection\obj\Debug\DBConnection.Form1.resources
+E:\Career\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+E:\Career\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+E:\Career\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+E:\Career\DBConnection\obj\Debug\DBConnection.exe
+E:\Career\DBConnection\obj\Debug\DBConnection.pdb
